@@ -31,7 +31,7 @@ function green_press(){
 function draw() 
 {
   background(50);
-if(MouseEvent)
+
 
   drawSprites();
 }
